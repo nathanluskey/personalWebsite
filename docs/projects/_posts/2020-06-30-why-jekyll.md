@@ -8,7 +8,7 @@ categories: jekyll update
 
 TL;DR: I'm ~~cheap & lazy~~ thrifty & efficient.
 
-## I'm thrify.
+## I'm thrifty.
 This site is hosted on GitHub [here](https://github.com/nilnate/personalWebsite). I'm doing this because it's *free* and *easy*. Changing the contents of the website are as simple as committing and pushing. The domain was bought through Google Domains for $12 (thank god my name isn't John Smith) and linked using this [guide](https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58) which took ~15 minutes. To compare alternatives for hosting, Squarespace costs $16/month; however, Squarespace is a lot easier than writing your own website from scratch. This brings me to why Jekyll specifically.
 
 ## It's easy.
