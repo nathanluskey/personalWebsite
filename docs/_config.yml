@@ -17,7 +17,7 @@ navbar-links:
   Home: "index"
   # Home: "/"
   Projects: "projects/index.html"
-  Résumé: "assets/LuskeyResume2020_NO_PHONE.pdf"
+  Résumé: "assets/LuskeyResume_NO_PHONE.pdf"
 
 #to put posts from projects on different page
 paginate_path: "/projects/page:num/"
