@@ -11,6 +11,4 @@ Hello! I'm currently an MSCS student at Carnegie Mellon University in Pittsburgh
 
 - [Projects](projects/index.html)
 
-- [Résumé](assets/LuskeyResume2020_NO_PHONE.pdf)  
-
 And below is contact information.
